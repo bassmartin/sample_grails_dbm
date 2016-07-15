@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleDiff.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleDiff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleDiff_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleDiff_integrationTest.iml" group="SampleDiff" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleDiff_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleDiff_main.iml" group="SampleDiff" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleDiff_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleDiff_test.iml" group="SampleDiff" />
+    </modules>
+  </component>
+</project>
